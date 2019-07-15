@@ -1,0 +1,7 @@
+This repository has a code that generates a figure with 4 graphs comparing the following data between South Korea and Sub-Saharan Africa:
+1) Population 
+2) Individuals using the internet
+3) Trade (% of GDP)
+4) GDP per capita
+
+Raw file called "complete_csv.csv" has the data collected from https://data.worldbank.org/
